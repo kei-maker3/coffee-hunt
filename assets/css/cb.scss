@@ -32,11 +32,3 @@ $theme-colors: map-merge(
 
 @import "base", "pages", "custom";
 
-/* Coffee Hunt homepage background */
-body {
-  background-image: url("https://kei-maker3.github.io/coffee-hunt/objects/Coffee.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
